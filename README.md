@@ -1,4 +1,4 @@
-# README #
+# Cheatsheet #
 
 ### Swift cheatsheet with unique examples that includes: ###
 
